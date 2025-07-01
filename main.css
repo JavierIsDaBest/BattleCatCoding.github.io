@@ -1,0 +1,43 @@
+.main-title {
+    background-color: cyan;
+    color: chocolate;
+    font-size: 60px;
+    text-align: center;
+    font-family: sans-serif;
+    padding: 30px;
+}
+
+.main-pic {
+    width: 50% ;
+    display: block;
+    margin: auto;
+    margin-top: 30px;
+}
+
+
+
+.main-table {
+    width: 96.69%;
+    margin: auto;
+    background-color: gold;
+    margin-top: 10px;
+    font-size: larger;
+    text-align: center;
+    font-family: sans-serif;
+    font-weight: 100;
+}
+
+.main-table-header {
+    background-color: cornflowerblue;
+    font-size: 42.0px;
+}
+
+.main-table td {
+    padding: 20px;
+}
+
+
+.navbar {
+    background-color: chocolate;
+    font-family: sans-serif
+}
